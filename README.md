@@ -18,10 +18,10 @@
 ## 🗂️ Project Structure
 
 Base/
-├── dllmain.cpp # Entry point
-├── Hook/ # Hook logic (e.g., Present)
-├── Renderer/ # ImGui DX11 rendering
-├── Library/ # External libs (ImGui, MinHook, etc.)
+├── dllmain.cpp # Entry point  
+├── Hook/ # Hook logic (e.g., Present)  
+├── Renderer/ # ImGui DX11 rendering  
+├── Library/ # External libs (ImGui, MinHook, etc.)  
 ---
 
 ## 🧪 Hotkeys
