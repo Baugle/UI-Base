@@ -35,7 +35,7 @@ Base/
 
 ## 🖼️ Screenshot
 
-> *(Add a screenshot here)*
+> *(bro i know it's too simple too young)*
 ![image](https://github.com/user-attachments/assets/5c49a850-f4a7-42d5-ac05-b3e6923ff9a0)
 
 ---
